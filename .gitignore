@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+.aws/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# macOS files
+.DS_Store
+
+# IDE settings
+.vscode/
+
+# Test cache
+.pytest_cache/
+
+# Build files
+build/
+dist/
+*.egg-info/

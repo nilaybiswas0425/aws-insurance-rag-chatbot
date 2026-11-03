@@ -1,0 +1,45 @@
+# ABC Insurance – Home Insurance Policy
+
+## Policy Details
+
+Policy Number: HOME-2026-001
+Policy Type: Home Insurance
+Coverage Amount: CAD 500,000
+Annual Premium: CAD 1,250
+Effective Date: January 1, 2026
+
+## Property Coverage
+
+The policy covers accidental physical damage to the insured residential property caused by fire, lightning, windstorms and certain water damage events, subject to policy exclusions and limits.
+
+The maximum property coverage is CAD 500,000.
+
+## Personal Belongings
+
+Personal belongings inside the insured property are covered up to CAD 100,000.
+
+High-value items may have individual coverage limits.
+
+## Deductible
+
+The standard deductible is CAD 1,000 per covered claim.
+
+Water damage claims may have a separate deductible depending on the coverage selected.
+
+## Claims Process
+
+Policyholders must report an incident to ABC Insurance as soon as reasonably possible.
+
+The policyholder must provide supporting documents, photographs and other relevant information required for claim assessment.
+
+## Important Exclusions
+
+The policy does not cover:
+- Intentional damage caused by the policyholder.
+- Normal wear and tear.
+- Damage resulting from poor maintenance.
+- Flood damage unless specific flood coverage has been purchased.
+
+## Customer Support
+
+For claims assistance, contact ABC Insurance Claims Support at 1-800-555-0100.
